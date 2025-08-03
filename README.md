@@ -1,5 +1,3 @@
-# Creating the complete README.md content in one Markdown file and saving it
-
 # 🧠 Predictive Modeling of Stroke Risk in High-Risk Populations Using Machine Learning
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
