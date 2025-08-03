@@ -33,7 +33,7 @@ Stroke is a leading cause of death and long-term disability worldwide. Early pre
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 thesis-CSE-4250/
 ├── README.md
 ├── .gitignore
@@ -53,7 +53,7 @@ thesis-CSE-4250/
 │   ├── train.py
 │   ├── evaluate.py
 │   └── utils.py
-\`\`\`
+```
 
 ---
 
