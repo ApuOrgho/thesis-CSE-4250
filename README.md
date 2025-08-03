@@ -60,7 +60,7 @@ thesis-CSE-4250/
 ### 1. Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/ApuOrgho/thesis-CSE-4250.git
+git clone https://github.com/ApuOrgho/thesis-cse-4250.git
 cd thesis-CSE-4250
 \`\`\`
 
